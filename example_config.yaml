@@ -1,0 +1,14 @@
+name: botname
+
+channels:
+  - one
+  - two
+  - three
+
+messages:
+  - contains: "testing message"
+    response: "this is my response"
+  - contains: "another test message"
+    response: "another response"	  
+  - contains: "another another message"
+    response: "another another response"
